@@ -1,0 +1,6 @@
+GONI BOARD
+M:	Robert Baldyga <r.baldyga@samsung.com>
+S:	Maintained
+F:	board/samsung/smdkv210/
+F:	include/configs/smdkv210.h
+F:	configs/smdkv210_defconfig
